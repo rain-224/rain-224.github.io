@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Another page
+title: another page
 description: This is just another page
 ---
 
 ## Welcome to another page
 
 
-[返回](./)
+[back](./)
