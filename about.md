@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: about page
+description: This is just about page
 ---
 
-## Welcome to another page
+## 关于我
 
-_yay_
 
-[back](./)
+[返回](./)

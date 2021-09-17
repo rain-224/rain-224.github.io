@@ -1,11 +1,8 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Java page
+description: This is just Java page
 ---
 
-## Welcome to another page
 
-_yay_
-
-[back](./)
+[返回](./)
